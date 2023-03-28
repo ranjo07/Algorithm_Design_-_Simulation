@@ -2,7 +2,7 @@ This Algorithm is a path planning algorithm. This type of algorithm is commonly 
 
 This Algorithm explains that how drones positioned at different coordinates should fly so that they find the shortest path to reach the destination and also to avoid the collisions.
 
-![das image](DAS.pdf"output's image attached")
 
 
 
+[DAS.pdf](https://github.com/ranjo07/Algorithm_Design_-_Simulation/files/11088751/DAS.pdf)
